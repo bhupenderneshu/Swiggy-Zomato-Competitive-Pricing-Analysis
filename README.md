@@ -173,12 +173,17 @@ Competitive-Pricing-Intelligence-Dashboard
 
 | Page | Preview |
 |---|---|
-| **Executive Dashboard** | _(Add Screenshot Here)_ |
-| **Pricing Analysis** | _(Add Screenshot Here)_ |
-| **Discount Analysis** | _(Add Screenshot Here)_ |
-| **Delivery Performance** | _(Add Screenshot Here)_ |
-| **Restaurant Insights** | _(Add Screenshot Here)_ |
-| **Business Insights** | _(Add Screenshot Here)_ |
+| **Executive Summary** | <img width="1312" height="738" alt="Screenshot 2026-07-27 132537" src="https://github.com/user-attachments/assets/dfdb453e-9a40-427b-8c98-890cbd324e01" />
+ |
+| **Pricing Analysis** | <img width="1310" height="736" alt="Screenshot 2026-07-27 132551" src="https://github.com/user-attachments/assets/72e00e83-4896-4490-8e1a-0a4473577aa4" />
+ |
+| **Fee Analysis** | =<img width="1306" height="732" alt="Screenshot 2026-07-27 132603" src="https://github.com/user-attachments/assets/93cf9be2-4130-4636-9546-923ad08e6b5f" />
+ |
+| **Discount Analysis** | <img width="1303" height="757" alt="Screenshot 2026-07-27 132620" src="https://github.com/user-attachments/assets/bafa07a6-0ef3-472e-81af-9f7b57559e0e" />
+ |
+| **Delivery Analysis** | <img width="1310" height="732" alt="Screenshot 2026-07-27 132631" src="https://github.com/user-attachments/assets/643f050c-41ed-4497-af32-05144eca0035" />
+ |
+
 
 > 💡 Tip: Save screenshots in `/Images` and reference them like:
 > `![Executive Dashboard](Images/executive_dashboard.png)`
