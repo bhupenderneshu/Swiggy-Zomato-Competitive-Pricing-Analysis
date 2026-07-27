@@ -122,7 +122,7 @@ Restaurant Name, Cuisine, Platform, Store Price, App Menu Price, Delivery Fee, P
 
 ## 📈 Dashboard Pages
 
-### 1️⃣ Executive Overview
+### 1️⃣ Executive Summary
 **KPIs:** Total Restaurants · Total Orders · Avg Final Cost · Avg Savings · Hidden Charges · Delivery Fee · Avg Delivery Time · Avg Distance
 **Visuals:** KPI Cards · Platform Comparison · Hidden Charge Breakdown · Restaurant Distribution · Cuisine Distribution
 
@@ -130,20 +130,17 @@ Restaurant Name, Cuisine, Platform, Store Price, App Menu Price, Delivery Fee, P
 **Analysis:** Avg Store Price · Avg App Menu Price · Price Inflation · Inflation % · Highest Menu Price · Lowest Platform Price
 **Visuals:** Clustered Column Chart · Waterfall Chart · Scatter Plot
 
-### 3️⃣ Discount Analysis
+### 3️⃣ Fee Analysis
+**KPIs:** Delivery Fee · Platform Fee · GST · Total Hidden Charges · Hidden Charges as % of Order Value
+**Visuals:** Donut Chart · Clustered Bar Chart · Breakdown Matrix
+
+### 4️⃣ Discount Analysis
 **KPIs:** Avg Discount · Max Discount · Effective Discount · Customer Savings · Highest Saving Restaurant
 **Visuals:** Donut Chart · Bar Chart · Heat Map
 
-### 4️⃣ Delivery Performance
+### 5️⃣ Delivery Analysis
 **KPIs:** Avg Delivery Time · Delivery Fee · Distance · Fastest Delivery · Slowest Delivery
 **Visuals:** Scatter Chart · Line Chart · Bubble Chart
-
-### 5️⃣ Restaurant Insights
-**Analysis:** Top Restaurants · Cuisine Analysis · Platform Distribution · Restaurant Pricing
-**Visuals:** Tree Map · Matrix · Stacked Bar Chart
-
-### 6️⃣ Business Insights
-**Key Findings:** Lowest Final Order Cost · Highest Hidden Charges · Best Customer Savings · Highest Price Inflation · Best Delivery Performance · Most Expensive Platform
 
 ---
 
@@ -171,22 +168,20 @@ Competitive-Pricing-Intelligence-Dashboard
 
 ## 📷 Dashboard Preview
 
-| Page | Preview |
-|---|---|
-| **Executive Summary** | <img width="1312" height="738" alt="Screenshot 2026-07-27 132537" src="https://github.com/user-attachments/assets/dfdb453e-9a40-427b-8c98-890cbd324e01" />
- |
-| **Pricing Analysis** | <img width="1310" height="736" alt="Screenshot 2026-07-27 132551" src="https://github.com/user-attachments/assets/72e00e83-4896-4490-8e1a-0a4473577aa4" />
- |
-| **Fee Analysis** | =<img width="1306" height="732" alt="Screenshot 2026-07-27 132603" src="https://github.com/user-attachments/assets/93cf9be2-4130-4636-9546-923ad08e6b5f" />
- |
-| **Discount Analysis** | <img width="1303" height="757" alt="Screenshot 2026-07-27 132620" src="https://github.com/user-attachments/assets/bafa07a6-0ef3-472e-81af-9f7b57559e0e" />
- |
-| **Delivery Analysis** | <img width="1310" height="732" alt="Screenshot 2026-07-27 132631" src="https://github.com/user-attachments/assets/643f050c-41ed-4497-af32-05144eca0035" />
- |
+### Executive Summary
+<img width="1312" height="738" alt="Executive Summary Dashboard" src="https://github.com/user-attachments/assets/dfdb453e-9a40-427b-8c98-890cbd324e01" />
 
+### Pricing Analysis
+<img width="1310" height="736" alt="Pricing Analysis Dashboard" src="https://github.com/user-attachments/assets/72e00e83-4896-4490-8e1a-0a4473577aa4" />
 
-> 💡 Tip: Save screenshots in `/Images` and reference them like:
-> `![Executive Dashboard](Images/executive_dashboard.png)`
+### Fee Analysis
+<img width="1306" height="732" alt="Fee Analysis Dashboard" src="https://github.com/user-attachments/assets/93cf9be2-4130-4636-9546-923ad08e6b5f" />
+
+### Discount Analysis
+<img width="1303" height="757" alt="Discount Analysis Dashboard" src="https://github.com/user-attachments/assets/bafa07a6-0ef3-472e-81af-9f7b57559e0e" />
+
+### Delivery Analysis
+<img width="1310" height="732" alt="Delivery Analysis Dashboard" src="https://github.com/user-attachments/assets/643f050c-41ed-4497-af32-05144eca0035" />
 
 ---
 
